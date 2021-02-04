@@ -80,7 +80,7 @@ a:hover {
 span.wave {
   animation-name: wave-animation;
   animation-duration: 2.5s;
-  animation-iteration-count: 10;
+  animation-iteration-count: 4;
   transform-origin: 70% 70%;
   display: inline-block;
   font-size: 0.8em;
